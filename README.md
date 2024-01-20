@@ -1,2 +1,2 @@
 # Python
-All my projects in Python 
+Analyzing Neighborhood-Specific Pricing Dynamics in U.S. Airbnb Open Data: Explore the intricacies of U.S. Airbnb listings with my project, leveraging the rich 'US Airbnb Open Data' from Kaggle. The statistical analysis dives deep into pricing dynamics across diverse neighborhoods, unveiling nuanced patterns and insights. The user-friendly system allows interactive exploration, and my collaborative efforts ensure a seamless project journey. From data cleaning to visualization, each team member plays a crucial role. Looking ahead, I envision expanding my analysis to include additional datasets, demographic factors, and time-series trends for a comprehensive understanding of Airbnb dynamics.
